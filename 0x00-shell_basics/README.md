@@ -1,1 +1,2 @@
-shell basic
+pwd 
+0-current working directory 
